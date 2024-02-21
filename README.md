@@ -1,5 +1,7 @@
 # List filaments in stock
 
-##
-- Creación de un listado de filamentos en stock y su estado, almacenado en una DB en Redis o MongoDB y un frontend con Bootstrap.
+## Creación de un listado de filamentos en stock
+
+Los estados de los filamentos se guardan en una base de datos MongoDB y se mostrar en el frontend creado con Bootstrap.
+
 
